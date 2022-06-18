@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": true,
+    "lib": ["esnext"],
+   
+
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "rootDir": "./",
+    "skipLibCheck": true,
+  },
+  
+ "include": ["database","app.ts","listener.ts","*.json"],
+"exclude": [
+    "node_modules",
+    "dist",
+    "test/*.test.ts"
+]
+}
