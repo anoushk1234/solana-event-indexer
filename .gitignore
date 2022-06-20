@@ -1,2 +1,4 @@
 test-ledger
 index-db/wallet.json
+data-emitter/node_modules/
+data-emitter/target

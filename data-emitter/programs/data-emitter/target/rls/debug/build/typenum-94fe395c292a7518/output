@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/anoushkkharangate/Documents/solana-indexer/data-emitter/programs/data-emitter/target/rls/debug/build/typenum-94fe395c292a7518/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/anoushkkharangate/Documents/solana-indexer/data-emitter/programs/data-emitter/target/rls/debug/build/typenum-94fe395c292a7518/out/op.rs
