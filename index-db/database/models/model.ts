@@ -13,6 +13,7 @@ export const MyEvent = sequelize.define("MyEvent", {
   },
 });
 
+//Run this once to create the table or create the table manually otherwise youll get a relation error
 // sequelize.sync({ force: true }).then(() => {
 //   return MyEvent.create({
 //     label: "test",
